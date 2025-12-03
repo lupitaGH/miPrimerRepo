@@ -12,3 +12,5 @@ esta es otra linea desde vsc
 este es otra linea
 
 Cambios desde mi rama local llamada developer
+
+cambios desde dev editor
